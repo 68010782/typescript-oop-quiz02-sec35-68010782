@@ -7,10 +7,3 @@ export const answers = {
   "c01": "C",
   "c02": "B",
 }
-
-
-
-
-
-
-
